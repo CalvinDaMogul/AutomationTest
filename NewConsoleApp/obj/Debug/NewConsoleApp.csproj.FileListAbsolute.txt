@@ -1,0 +1,12 @@
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\NewConsoleApp.csprojAssemblyReference.cache
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\NewConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\NewConsoleApp.exe.config
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\NewConsoleApp.exe
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\NewConsoleApp.pdb
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\WebDriver.dll
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\WebDriver.xml
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\NewConsoleApp.csproj.CopyComplete
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\NewConsoleApp.exe
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\obj\Debug\NewConsoleApp.pdb
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\WebDriver.Support.dll
+C:\Users\caljf\source\repos\NewConsoleApp\NewConsoleApp\bin\Debug\WebDriver.Support.xml
